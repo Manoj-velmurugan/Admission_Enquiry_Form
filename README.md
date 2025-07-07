@@ -49,22 +49,27 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
         <label><b>Full Name</b></label>
         <input type="text" placeholder="Enter your name here">
         <br>
+        <br>
 
         <label><b>Email Address</b></label>
         <input type="email" placeholder="Enter your email here">
         <br>
+        <br>
 
         <label><b>Mobile Number</b></label>
         <input type="number" placeholder="Enter your mobile number">
+        <br>
         <br>
 
         <label><b>Gender</b></label>
         <input type="radio" name="gender">Male</input>
         <input type="radio" name="gender">Female</input>
         <br>
+        <br>
 
         <label><b>Date of birth</b></label>
         <input type="date">
+        <br>
         <br>
 
         <label><b>Departments interested</b></label>
@@ -78,18 +83,25 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
             <option>AGRI</option>
         </select>
         <br>
+        <br>
 
         <label><b>Academic Qualificatons</b></label>
         <br>
         <textarea columns = 10 rows = 5></textarea>
         <br>
+        <br>
+
         <label><b>Address</b></label>
         <br>
         <textarea columns = 10 rows = 5></textarea>
         <br>
+        <br>
+
         <label><b>Preferres mode of contact</b></label>
         <input type="checkbox">Email</input>
         <input type="checkbox">Phone</input>
+        <br>
+        <br>
 
         <button type="submit">Submit</button>
 
